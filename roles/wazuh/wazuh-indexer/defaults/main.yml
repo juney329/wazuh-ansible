@@ -40,8 +40,8 @@ indexer_jvm_xms: null
 
 indexer_http_port: 9200
 
-indexer_admin_password: changeme
-dashboard_password: changeme
+indexer_admin_password: 6761mQLjVB*l3W&CsK^wM
+dashboard_password: WGLjeWerB0P0zO9W@Ww%x
 
 # Deployment settings
 generate_certs: true

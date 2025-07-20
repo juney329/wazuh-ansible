@@ -1,0 +1,6 @@
+19/07/2025 22:16:31 INFO: Verbose logging redirected to /home/biscuit/code/wazuh-ansible/playbooks/indexer/certificates/wazuh-certificates-tool.log
+19/07/2025 22:16:31 INFO: Generating the root certificate.
+19/07/2025 22:16:31 INFO: Generating Admin certificates.
+19/07/2025 22:16:32 INFO: Admin certificates created.
+19/07/2025 22:16:32 INFO: Generating Wazuh indexer certificates.
+19/07/2025 22:16:32 INFO: Wazuh indexer certificates created.
